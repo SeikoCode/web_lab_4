@@ -1,0 +1,103 @@
+@media only screen and (max-device-width: 480px) {
+
+#menu{
+	width: 100%;
+	height: 300px;
+}
+
+.button{
+	width: 260px;
+	height: 100px;
+
+
+}
+
+a{
+font-size: 35px;
+}
+
+.logo{
+	position: absolute;
+	width: 120px;
+	height: 153px;
+	margin-top: 80px;
+	margin-left: 425px;
+}
+
+.left_butns{
+	margin-left: 60px;
+}
+
+.right_butns{
+	margin-top: 0px;
+	margin-right: 60px;
+}
+
+.head{
+	width: 965px;
+	height: 365px;
+}
+
+
+#content{
+	width: 100%;
+	height: 2550px;
+}
+
+.txt1{
+	width: 700px;
+	height: 265px;
+}
+
+.txt{
+	font-size: 20px;
+}
+
+.pers1{
+	margin-left: 145px;
+	top: 2200px;
+	width: 250px;
+	height: 320px;
+}
+
+.pers2{
+	margin-left: 145px;
+	top: 1200px;
+	width: 250px;
+	height: 320px;
+}
+
+
+
+.btn_pers{
+	margin-top: 250px;
+	width: 150px;
+	height: 60px;
+}
+
+.txt2{
+	margin-left: 155px;
+	width: 210px;
+	height: 420px;
+}
+
+.txt3{
+	margin-left: 165px;
+	margin-top: 50px;
+	width: 210px;
+	height: 380px;
+}
+
+.img{
+	width: 690px;
+	height: 900px;
+}
+
+#footer{
+	margin: 0px auto;
+	width: 965px;
+	height: 240px;
+	font-size: 25px;
+}
+
+}
